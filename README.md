@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gold and Silver Mean Reversion Strategy
 
 This project implements a mean reverting trading strategy for Gold and Silver ETFs. The strategy is based on the principle that prices tend to revert to their historical mean over time. 
@@ -49,3 +50,6 @@ This project implements a mean reverting trading strategy for Gold and Silver ET
 ## License
 
 This project is licensed under the MIT License.
+=======
+# gold-silver-mean-reversion
+>>>>>>> 7894e59b76bb36bacf01378d27ae139b7a9a252b
